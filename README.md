@@ -28,7 +28,7 @@
 
 ## Building and running the driver
 
-* To build the driver, type "make" to the shell.
+* To build the driver, type "make" to the shell in the src directory
 
 * To run the driver on a tiny test trace:
 
@@ -39,3 +39,8 @@
 * To get a list of the driver flags:
 
     `devel@getnoo ~/malloclab $ mdriver -h`
+* To test all traces:
+* ./mdriver -V
+
+# performance
+* my Implementation scored 85/100. Which was very good!
